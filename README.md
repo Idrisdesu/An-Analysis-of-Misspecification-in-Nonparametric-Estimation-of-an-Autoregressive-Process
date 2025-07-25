@@ -30,7 +30,7 @@ The theoretical foundations of this work are based on:
 
 ## Repository Contents
 
-- `An Analysis of Misspecification in Nonparametric Estimation of Autoregressive Processes notebook.ipynb`:  
+- `Notebook An Analysis of Misspecification in Nonparametric Estimation of Autoregressive Processes.ipynb`:  
   A Jupyter Notebook implementing all estimation methods, CRB/MCRB derivations, and simulation experiments.
 
 - `An Analysis of Misspecification in Nonparametric Estimation of Autoregressive Processes.pdf`:  
