@@ -1,4 +1,4 @@
-# An Analysis of Misspecification in Nonparametric Estimation of an Autoregressive Process
+# An Analysis of Misspecification in Nonparametric Estimation of Autoregressive Processes
 
 This repository contains the notebook and the internship report of a research project conducted as part of an internship within the **SAMOVAR laboratory at Institut Polytechnique de Paris**, under the supervision of Professor **Stefano Fortunati**.
 
